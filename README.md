@@ -1,4 +1,14 @@
-## Custom MIDI output device patch for 東方永夜抄　～ Imperishable Night
+## Custom MIDI output device patch for Touhou Windows games
+
+### Supported Versions
+
+* 東方妖々夢　～ Perfect Cherry Blossom:
+    * v1.0.0b
+
+* 東方永夜抄　～ Imperishable Night:
+    * v1.0.0b
+    * v1.0.0c
+    * v1.0.0d
 
 ### Installing
 
@@ -15,7 +25,8 @@
           },
           {
             "archive": "thpatch/lang_en/"
-          }
+          },
+          ...
       ]
     }
     ```
